@@ -1,8 +1,9 @@
 {
   "images" : [
     {
-      "idiom" : "iphone",
       "size" : "20x20",
+      "idiom" : "iphone",
+      "filename" : "螢幕快照 2018-08-30 上午9.40.13.png",
       "scale" : "2x"
     },
     {
